@@ -1,3 +1,2 @@
-﻿  platinum.cpp
-c:\users\user\documents\visual studio 2015\projects\cprogchap3assignment2\cprogchap3assignment2\platinum.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\user\documents\visual studio 2015\projects\cprogchap3assignment2\cprogchap3assignment2\platinum.cpp(6): fatal error C1075: the left brace '{' was unmatched at the end of the file
+﻿  number_of_H2O.cpp
+  CProgChap3Assignment2.vcxproj -> C:\Users\EOM\Documents\GitHub\cprogchap3assignment-EOMcpp\CProgChap3Assignment22\Debug\CProgChap3Assignment2.exe

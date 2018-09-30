@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2.3 two_func.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="platinum.cpp">
+    <ClCompile Include="number_of_H2O.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
